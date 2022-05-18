@@ -10,13 +10,10 @@ Skills: REACT / Nodejs / python / Django
 - 📫 How to reach me: ertugrul013@hotmail.com  
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Horses sleep with there eyes open and standing up 
+![GitHub metrics](https://metrics.lecoq.io/ertugrul013)  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ertugrul013)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ertugrul-yesil/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrul013)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/ertugrul013)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ertugrul013)  
 
