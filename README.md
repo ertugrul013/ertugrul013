@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Ertugrul 
 #### I am a backend developer 
+#### Currently working as a QA engineer @ [Basic-fit](wwww.basic-fit.com)
 I always had a passion for creating awsome projects that help make people life's easier
 
-Skills: REACT / Nodejs / python / Django 
+Skills: REACT / Nodejs / python / Django / Cypress
 
 - 🔭 I’m currently working on Creating an open source ATS built with Django and React 
 - 🌱 I’m currently learning Django rest frameworks awesome features  
